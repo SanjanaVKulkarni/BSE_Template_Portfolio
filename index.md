@@ -1,9 +1,9 @@
-﻿# Project Name/Title Goes Here
+﻿ "Third Eye" for the Visually Impaired
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Sanjana Kulkarni | Middlesex County Academy for STEM | Electrical Engineering | Incoming Junior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
@@ -19,6 +19,8 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
+For my project I decided to build the Third Eye for the Visually Impaired. This project is a stand-in for other devices that are used regularly such as walking sticks or guide dogs. Therefore, the basic structure of the project is for it to be able to detect the distance from the person wearing the prototype and the nearest object. In order for me to understand everything that this project would teach me, I broke it up into different milestones. The most basic of these milestones was connecting the ultrasound sensor which detects the distance, and the buzzer which beeps at a certain speed depending on the frequency.
+In order for me to understand how to do this, I had to investigate the main components of the basic parts of the circuit. The first one is the ultrasonic sensor, which works like echolocation. In order for me to understand how this hardware worked, I investigated the data sheet which can be found here. After figuring out how to wire the sensor, I had to figure out how to program it. I was able to find a tutorial along with some sample code, and built off of that. The tutorial and sample code can be found here . After I was able to confirm that my sensor was working properly I was able to move on to the buzzer. 
+The particular buzzer I utilized for this project was the piezo-electric buzzer. The way this buzzer works is that there is a special piezo crystal inside of the buzzer that changes shapes when different voltages are applied. After that, the buzzer works somewhat like a human diaphragm, the crystal pushes against the crystal cone and different sounds are produced based on the pressure applied. Since this buzzer was one that I hadn’t used before, I decided to take a look at the datasheet for it, and I built a standalone circuit so I could grasp the code as well as the wiring for it. After that I incorporated into my previous sensor with the ultrasonic sensor, and the circuit was able to detect the distance and change the timing of the beeps depending on how close or far the object is. For example, the beeping would be much faster if the object was only 20cm away compared to if it was 50cm away. 
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
