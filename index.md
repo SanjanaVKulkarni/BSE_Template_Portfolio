@@ -1,5 +1,5 @@
-﻿ "Third Eye" for the Visually Impaired
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿ # "Third Eye" for the Visually Impaired
+The Third Eye for the Visually Impaired is a mechanism that utilizes an ultrasonic sensor in order to give feedback depending on relative distances. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
