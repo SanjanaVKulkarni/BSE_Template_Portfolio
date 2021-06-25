@@ -9,12 +9,12 @@ The Third Eye for the Visually Impaired is a mechanism that utilizes an ultrason
   
 # Final Milestone
 UNDER CONSTRUCTION!!!
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone]{vIDEO COMING SOON}{:target="_blank" rel="noopener"}
 
 # Second Milestone
 UNDER CONSTRUCTION!!
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Third Milestone]{VIDEO COMING SOON}{:target="_blank" rel="noopener"}
 # First Milestone
   
   For my project I decided to build the Third Eye for the Visually Impaired. This project is a stand-in for other devices that are used regularly such as walking sticks or guide dogs. Therefore, the basic structure of the project is for it to be able to detect the distance from the person wearing the prototype and the nearest object. In order for me to understand everything that this project would teach me, I broke it up into different milestones. The most basic of these milestones was connecting the ultrasound sensor which detects the distance, and the buzzer which beeps at a certain speed depending on the frequency.
