@@ -23,7 +23,9 @@ These modifications made it easy for me to mount my project and make it wearable
 
 
 
-[![Third Milestone]{VIDEO COMING SOON}{:target="_blank" rel="noopener"}
+[![Sanjana's First Milestone]([![Sanjana's Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625095252/video_to_markdown/images/youtube--mv32639qD8E-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/mv32639qD8E "Sanjana's Second Milestone"){:target="_blank" rel="noopener"}
+
+
 # First Milestone
   
   <HTML>
