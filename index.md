@@ -16,7 +16,8 @@ UNDER CONSTRUCTION!!!
 <img src=https://cdn.discordapp.com/attachments/852976694633955328/859537240241340416/image0.jpg width=300 height=400 align=left style="float:right; padding-left:10px">
 For my second milestone, I made my project wearable and added some modifications in order to make it lighter. The first change I made was I substituted my arduino for an ESP32. I decided to make this change because I knew that I would be mounting my project on a glove and the arduino was a little too bulky to fit it on the glove comfortably. Since the ESP32 is smaller and more compact I was able to mount it onto my glove.
 </HTML>  
-<br>
+</br>
+
 Other than that, I used velcro strips in order to mount my ultrasonic sensor on top of my glove. In order to make sure my connections were secure I used soldering to solder my header pins to a perf board and then attach my ESP on top. This was so, the ESP would be removable for convenience as well as debugging. 
 
 These modifications made it easy for me to mount my project and make it wearable which completes my second milestone. My goal for my third milestone is to include a vibrating motor that works alongside the piezo buzzer. This would be activated with a push button, where you could choose whether you want the buzzer or the vibrating motor. This will help people who are in noisy situations. For example, let’s say this project is being used with a lot of background noise, you may not be able to hear the soft sound of the buzzer. Therefore, being able to include something like a vibrating motor would help people realize that there is something approaching them. 
