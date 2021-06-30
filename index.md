@@ -21,7 +21,8 @@ For my second milestone, I made my project wearable and added some modifications
 </br>
 Other than that, I used velcro strips in order to mount my ultrasonic sensor on top of my glove. In order to make sure my connections were secure I used soldering to solder my header pins to a perf board and then attach my ESP on top. This was so, the ESP would be removable for convenience as well as debugging. 
 
-
+</br>
+</br>
 These modifications made it easy for me to mount my project and make it wearable which completes my second milestone. My goal for my third milestone is to include a vibrating motor that works alongside the piezo buzzer. This would be activated with a push button, where you could choose whether you want the buzzer or the vibrating motor. This will help people who are in noisy situations. For example, let’s say this project is being used with a lot of background noise, you may not be able to hear the soft sound of the buzzer. Therefore, being able to include something like a vibrating motor would help people realize that there is something approaching them. 
 
 
