@@ -27,7 +27,7 @@ These modifications made it easy for me to mount my project and make it wearable
 # First Milestone
   
   <HTML>
-  <img src=https://cdn.discordapp.com/attachments/852976694633955328/855175259884093460/17.06.2021_16.00.38_REC.png width=300 length=100 align=right style="float:left; padding-right:10px">
+  <img src=https://cdn.discordapp.com/attachments/852976694633955328/855175259884093460/17.06.2021_16.00.38_REC.png width=300 length=50 align=right style="float:left; padding-right:10px">
    For my project I decided to build the Third Eye for the Visually Impaired. This project is a stand-in for other devices that are used regularly such as walking sticks or guide dogs. Therefore, the basic structure of the project is for it to be able to detect the distance from the person wearing the prototype and the nearest object. In order for me to understand everything that this project would teach me, I broke it up into different milestones. The most basic of these milestones was connecting the ultrasound sensor which detects the distance, and the buzzer which beeps at a certain speed depending on the frequency.
   </HTML>
   
