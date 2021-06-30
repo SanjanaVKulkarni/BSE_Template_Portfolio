@@ -36,6 +36,4 @@ UNDER CONSTRUCTION!!!
 
 
 [![Sanjana's First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1624479130/video_to_markdown/images/youtube--tTKjn9KAA4s-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=tTKjn9KAA4s "Sanjana's First Milestone"){:target="_blank" rel="noopener"}
-![Schematic](https://cdn.discordapp.com/attachments/852976694633955328/855175259884093460/17.06.2021_16.00.38_REC.png) 
 
-<img width="564" alt="29 06 2021_17 25 45_REC" src="https://user-images.githubusercontent.com/86079139/123869509-170e3800-d8ff-11eb-808b-e06528f40266.png"> 
