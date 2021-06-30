@@ -5,7 +5,7 @@ The Third Eye for the Visually Impaired is a mechanism that utilizes an ultrason
 |:--:|:--:|:--:|:--:|
 | Sanjana Kulkarni | Middlesex County Academy for STEM | Electrical Engineering | Incoming Junior
 
-[!Headstone Image](https://cdn.discordapp.com/attachments/852976694633955328/859537240241340416/image0.jpg)
+[![Headstone Image](https://cdn.discordapp.com/attachments/852976694633955328/859537240241340416/image0.jpg)
   
 # Final Milestone
 UNDER CONSTRUCTION!!!
