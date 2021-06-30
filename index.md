@@ -26,7 +26,9 @@ UNDER CONSTRUCTION!!!
    The particular buzzer I utilized for this project was the piezo-electric buzzer. The way this buzzer works is that there is a special piezo crystal inside of the buzzer that changes shapes when different voltages are applied. After that, the buzzer works somewhat like a human diaphragm, the crystal pushes against the crystal cone and different sounds are produced based on the pressure applied. Since this buzzer was one that I hadn’t used before, I decided to take a look at the datasheet for it, and I built a standalone circuit so I could grasp the code as well as the wiring for it. After that I incorporated into my previous sensor with the ultrasonic sensor, and the circuit was able to detect the distance and change the timing of the beeps depending on how close or far the object is. For example, the beeping would be much faster if the object was only 20cm away compared to if it was 50cm away. 
 
 [![Sanjana's First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1624479130/video_to_markdown/images/youtube--tTKjn9KAA4s-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=tTKjn9KAA4s "Sanjana's First Milestone"){:target="_blank" rel="noopener"}
-![Schematic](https://cdn.discordapp.com/attachments/852976694633955328/855175259884093460/17.06.2021_16.00.38_REC.png) This is the Schematic for the Circuit
-<img width="564" alt="29 06 2021_17 25 45_REC" src="https://user-images.githubusercontent.com/86079139/123869509-170e3800-d8ff-11eb-808b-e06528f40266.png"> This is the Sample Code for setting Conditions for the Piezo Buzzer
+![Schematic](https://cdn.discordapp.com/attachments/852976694633955328/855175259884093460/17.06.2021_16.00.38_REC.png) 
+This is the Schematic for the Circuit
+<img width="564" alt="29 06 2021_17 25 45_REC" src="https://user-images.githubusercontent.com/86079139/123869509-170e3800-d8ff-11eb-808b-e06528f40266.png"> 
+This is the Sample Code for setting Conditions for the Piezo Buzzer
 
 
