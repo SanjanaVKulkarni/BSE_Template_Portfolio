@@ -13,7 +13,7 @@ UNDER CONSTRUCTION!!!
 
 # Second Milestone
 <HTML>
-<img src=https://cdn.discordapp.com/attachments/852976694633955328/859537240241340416/image0.jpg width=300 height=200 align=left style="float:right; padding-left:10px">
+<img src=https://cdn.discordapp.com/attachments/852976694633955328/859537240241340416/image0.jpg width=300 height=400 align=left style="float:right; padding-left:10px">
 For my second milestone, I made my project wearable and added some modifications in order to make it lighter. The first change I made was I substituted my arduino for an ESP32. I decided to make this change because I knew that I would be mounting my project on a glove and the arduino was a little too bulky to fit it on the glove comfortably. Since the ESP32 is smaller and more compact I was able to mount it onto my glove.
 </HTML>  
 
