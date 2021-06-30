@@ -25,6 +25,8 @@ Other than that, I used velcro strips in order to mount my ultrasonic sensor on 
 </br>
 These modifications made it easy for me to mount my project and make it wearable which completes my second milestone. My goal for my third milestone is to include a vibrating motor that works alongside the piezo buzzer. This would be activated with a push button, where you could choose whether you want the buzzer or the vibrating motor. This will help people who are in noisy situations. For example, let’s say this project is being used with a lot of background noise, you may not be able to hear the soft sound of the buzzer. Therefore, being able to include something like a vibrating motor would help people realize that there is something approaching them. 
 
+</br>
+</br>
 
 [![Sanjana's Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625095252/video_to_markdown/images/youtube--mv32639qD8E-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/mv32639qD8E "Sanjana's Second Milestone"){:target="_blank" rel="noopener"}
 
