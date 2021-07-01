@@ -21,7 +21,7 @@ The first button helps the user decide whether or not the glove will use the pie
 The second modification I incorporated was the use of the second button. Although this glove will always be sensing an object, I realized that I did not have any means to completely stop the project from working. Therefore, I incorporated another button to turn this project completely on and off. This button is also soldered onto the perf board along with it’s resistor in order to increase the accessibility. 
 </HTML>
 
-
+<br>
 Although I was able to incorporate some modifications, for the future there are other things I would like to try. This includes incorporating a color sensor that would sense the color of a nearby object and then utilizing an external speaker to tell you what color the object is. This modification would come in handy for those who are unable to see color or have some difficulty doing so. 
 
 <HTML>
