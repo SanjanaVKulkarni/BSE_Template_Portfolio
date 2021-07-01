@@ -10,7 +10,7 @@
 For my final milestone I decided to incorporate my modifications into the base project that I had already built in my second milestone. In order to do this I incorporated a Vibrating Motor, and 2 buttons. 
 
 <HTML>
-<img src= "Images1/01.07.2021_10.03.42_REC.png" width= 600 height= 400 align=left style="float:right; padding-left:10px">
+<img src= "Images1/01.07.2021_10.03.42_REC.png" width= 500 height= 300 align=left style="float:right; padding-left:10px">
 The first button helps the user decide whether or not the glove will use the piezo buzzer or the vibrating motor as it’s output source. If the user pushes the button, the ultrasonic sensor will still read the values but the mode of the output changes. The vibrating motor was easy to connect to the ESP32. Since there are 3 pins on the vibrating motor, the pin on the very left goes to ground, the pin in the middle goes to VCC, and the pin on the very right goes to the input pin on the ESP32. The button along with the resistor, are soldered onto the perf board which makes it easily accessible for the user to push. 
 </HTML>
 
