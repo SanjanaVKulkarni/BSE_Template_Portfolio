@@ -5,7 +5,7 @@ The Third Eye for the Visually Impaired is a mechanism that utilizes an ultrason
 |:--:|:--:|:--:|:--:|
 | Sanjana Kulkarni | Middlesex County Academy for STEM | Electrical Engineering | Incoming Junior
 
-[![Headstone Image](https://cdn.discordapp.com/attachments/852976694633955328/859537240241340416/image0.jpg)
+[![Headstone Image]](https://cdn.discordapp.com/attachments/852976694633955328/859537240241340416/image0.jpg)
   
 # Final Milestone
 UNDER CONSTRUCTION!!!
@@ -13,7 +13,7 @@ UNDER CONSTRUCTION!!!
 
 # Second Milestone
 <HTML>
-<img src=Images1/image0.jpg width=300 height=450 align=left style="float:right; padding-left:10px">
+<img src="Images1/image0.jpg" width=300 height=450 align=left style="float:right; padding-left:10px">
 For my second milestone, I made my project wearable and added some modifications in order to make it lighter. The first change I made was I substituted my arduino for an ESP32. I decided to make this change because I knew that I would be mounting my project on a glove and the arduino was a little too bulky to fit it on the glove comfortably. Since the ESP32 is smaller and more compact I was able to mount it onto my glove.
 </HTML>  
 
@@ -34,7 +34,7 @@ These modifications made it easy for me to mount my project and make it wearable
 # First Milestone
   
   <HTML>
-  <img src=Images1/17.06.2021_15.58.34_REC.png width=300 length=50 align=right style="float:left; padding-right:10px">
+  <img src="Images1/17.06.2021_15.58.34_REC.png" width=300 length=50 align=right style="float:left; padding-right:10px">
    For my project I decided to build the Third Eye for the Visually Impaired. This project is a stand-in for other devices that are used regularly such as walking sticks or guide dogs. Therefore, the basic structure of the project is for it to be able to detect the distance from the person wearing the prototype and the nearest object. In order for me to understand everything that this project would teach me, I broke it up into different milestones. The most basic of these milestones was connecting the ultrasound sensor which detects the distance, and the buzzer which beeps at a certain speed depending on the frequency.
   </HTML>
   
@@ -42,7 +42,7 @@ These modifications made it easy for me to mount my project and make it wearable
   
   The particular buzzer I utilized for this project was the piezo-electric buzzer. The way this buzzer works is that there is a special piezo crystal inside of the buzzer that changes shapes when different voltages are applied. 
   <HTML>
-  <img src= Images1/29.06.2021_17.25.45_REC.png width=500 align=left style= "float:right;padding-left:10px">
+  <img src= "Images1/29.06.2021_17.25.45_REC.png" width=500 align=left style= "float:right;padding-left:10px">
   
    After that, the buzzer works somewhat like a human diaphragm, the crystal pushes against the crystal cone and different sounds are produced based on the pressure applied. Since this buzzer was one that I hadn’t used before, I decided to take a look at the datasheet for it, and I built a standalone circuit so I could grasp the code as well as the wiring for it. After that I incorporated into my previous sensor with the ultrasonic sensor, and the circuit was able to detect the distance and change the timing of the beeps depending on how close or far the object is. For example, the beeping would be much faster if the object was only 20cm away compared to if it was 50cm away. 
 </HTML>
