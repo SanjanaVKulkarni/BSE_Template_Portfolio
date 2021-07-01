@@ -23,9 +23,7 @@ The second modification I incorporated was the use of the second button. Althoug
 
 
 Although I was able to incorporate some modifications, for the future there are other things I would like to try. This includes incorporating a color sensor that would sense the color of a nearby object and then utilizing an external speaker to tell you what color the object is. This modification would come in handy for those who are unable to see color or have some difficulty doing so. 
- 
-<br>
-<br>
+
 <HTML>
 <img src= "Images1/01.07.2021_10.12.06_REC.png" width= 100 height= 150 align=left style="float:right; padding-left:10px">
 Throughout this project, one of the difficult aspects was soldering. The process of soldering did make the project more visually appealing. The process of soldering includes taking metal wire and melting it in order to form electrical connections. This picture shows some examples of different methods of soldering. 
