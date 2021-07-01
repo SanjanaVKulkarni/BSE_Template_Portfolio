@@ -4,7 +4,10 @@
 |:--:|:--:|:--:|:--:|
 | Sanjana Kulkarni | Middlesex County Academy for STEM | Electrical Engineering | Incoming Junior
 
-[![Headstone Image]<HTML><img src= "Images1/final.jpg" height=600  align=center style="float:right; padding-left:10px"> </HTML>
+[![Headstone Image]
+<HTML>
+<img src= "Images1/final.jpg" height=600  align=center style="float:right; padding-left:10px">
+</HTML>
   
 # Final Milestone
 For my final milestone I decided to incorporate my modifications into the base project that I had already built in my second milestone. In order to do this I incorporated a Vibrating Motor, and 2 buttons. 
