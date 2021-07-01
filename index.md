@@ -6,7 +6,7 @@
 
 ![Headstone Image]
 <HTML>
-<img src= "Images1/final.jpg">
+<img src= "Images1/final.jpg" height=600>
 </HTML>
 
 
