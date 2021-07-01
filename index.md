@@ -1,5 +1,4 @@
 #  "Third Eye" for the Visually Impaired
-The Third Eye for the Visually Impaired is a mechanism that utilizes an ultrasonic sensor in order to give feedback depending on relative distances. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
