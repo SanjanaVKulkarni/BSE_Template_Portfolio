@@ -29,6 +29,9 @@ Although I was able to incorporate some modifications, for the future there are 
 <HTML>
 <img src= "Images1/01.07.2021_10.12.06_REC.png" width= 100 height= 150 align=left style="float:right; padding-left:10px">
 Throughout this project, one of the difficult aspects was soldering. The process of soldering did make the project more visually appealing. The process of soldering includes taking metal wire and melting it in order to form electrical connections. This picture shows some examples of different methods of soldering. 
+  
+<br>
+<br>
 
 [![Final Milestone]{vIDEO COMING SOON}{:target="_blank" rel="noopener"}
 
