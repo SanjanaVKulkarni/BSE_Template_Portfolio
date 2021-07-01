@@ -17,11 +17,11 @@ For my second milestone, I made my project wearable and added some modifications
 </HTML>  
 
 <br>
-<br>
+
 Other than that, I used velcro strips in order to mount my ultrasonic sensor on top of my glove. In order to make sure my connections were secure I used soldering to solder my header pins to a perf board and then attach my ESP on top. This was so, the ESP would be removable for convenience as well as debugging. 
 
 <br>
-<br>
+
 These modifications made it easy for me to mount my project and make it wearable which completes my second milestone. My goal for my third milestone is to include a vibrating motor that works alongside the piezo buzzer. This would be activated with a push button, where you could choose whether you want the buzzer or the vibrating motor. This will help people who are in noisy situations. For example, let’s say this project is being used with a lot of background noise, you may not be able to hear the soft sound of the buzzer. Therefore, being able to include something like a vibrating motor would help people realize that there is something approaching them. 
 
 <br>
@@ -38,7 +38,6 @@ These modifications made it easy for me to mount my project and make it wearable
   </HTML>
   
 <br>
-<br>
 
   In order for me to understand how to do this, I had to investigate the main components of the basic parts of the circuit. The first one is the ultrasonic sensor, which works like echolocation. In order for me to understand how this hardware worked, I investigated the data sheet. After figuring out how to wire the sensor, I had to figure out how to program it. I was able to find a tutorial along with some sample code, and built off of that. After I was able to confirm that my sensor was working properly I was able to move on to the buzzer. 
   
@@ -49,6 +48,8 @@ These modifications made it easy for me to mount my project and make it wearable
    After that, the buzzer works somewhat like a human diaphragm, the crystal pushes against the crystal cone and different sounds are produced based on the pressure applied. Since this buzzer was one that I hadn’t used before, I decided to take a look at the datasheet for it, and I built a standalone circuit so I could grasp the code as well as the wiring for it. After that I incorporated into my previous sensor with the ultrasonic sensor, and the circuit was able to detect the distance and change the timing of the beeps depending on how close or far the object is. For example, the beeping would be much faster if the object was only 20cm away compared to if it was 50cm away. 
 </HTML>
 
+<br>
+<br>
 
 [![Sanjana's First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1624479130/video_to_markdown/images/youtube--tTKjn9KAA4s-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=tTKjn9KAA4s "Sanjana's First Milestone"){:target="_blank" rel="noopener"}
 
