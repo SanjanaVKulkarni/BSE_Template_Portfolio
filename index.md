@@ -19,6 +19,7 @@ The first button helps the user decide whether or not the glove will use the pie
 <HTML>
 <img src= "Images1/01.07.2021_10.04.13_REC.png" width= 500 align=right style="float:left; padding-right:10px">
 The second modification I incorporated was the use of the second button. Although this glove will always be sensing an object, I realized that I did not have any means to completely stop the project from working. Therefore, I incorporated another button to turn this project completely on and off. This button is also soldered onto the perf board along with it’s resistor in order to increase the accessibility. 
+</HTML>
 
 <br>
 <br>
@@ -29,6 +30,7 @@ Although I was able to incorporate some modifications, for the future there are 
 <HTML>
 <img src= "Images1/01.07.2021_10.12.06_REC.png" width= 100 height= 150 align=left style="float:right; padding-left:10px">
 Throughout this project, one of the difficult aspects was soldering. The process of soldering did make the project more visually appealing. The process of soldering includes taking metal wire and melting it in order to form electrical connections. This picture shows some examples of different methods of soldering. 
+</HTML>
   
 <br>
 <br>
