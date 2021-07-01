@@ -11,6 +11,9 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
   
 # Final Milestone
 For my final milestone I decided to incorporate my modifications into the base project that I had already built in my second milestone. In order to do this I incorporated a Vibrating Motor, and 2 buttons. 
