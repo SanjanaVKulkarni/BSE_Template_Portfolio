@@ -15,9 +15,7 @@ The first button helps the user decide whether or not the glove will use the pie
 </HTML>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 <HTML>
 <img src= "Images1/01.07.2021_10.04.13_REC.png" width= 500 align=right style="float:left; padding-right:10px">
 The second modification I incorporated was the use of the second button. Although this glove will always be sensing an object, I realized that I did not have any means to completely stop the project from working. Therefore, I incorporated another button to turn this project completely on and off. This button is also soldered onto the perf board along with it’s resistor in order to increase the accessibility. 
