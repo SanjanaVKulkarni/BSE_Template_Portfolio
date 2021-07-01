@@ -16,11 +16,8 @@ UNDER CONSTRUCTION!!!
 For my second milestone, I made my project wearable and added some modifications in order to make it lighter. The first change I made was I substituted my arduino for an ESP32. I decided to make this change because I knew that I would be mounting my project on a glove and the arduino was a little too bulky to fit it on the glove comfortably. Since the ESP32 is smaller and more compact I was able to mount it onto my glove.
 </HTML>  
 
-<br>
-
 Other than that, I used velcro strips in order to mount my ultrasonic sensor on top of my glove. In order to make sure my connections were secure I used soldering to solder my header pins to a perf board and then attach my ESP on top. This was so, the ESP would be removable for convenience as well as debugging. 
 
-<br>
 
 These modifications made it easy for me to mount my project and make it wearable which completes my second milestone. My goal for my third milestone is to include a vibrating motor that works alongside the piezo buzzer. This would be activated with a push button, where you could choose whether you want the buzzer or the vibrating motor. This will help people who are in noisy situations. For example, let’s say this project is being used with a lot of background noise, you may not be able to hear the soft sound of the buzzer. Therefore, being able to include something like a vibrating motor would help people realize that there is something approaching them. 
 
@@ -37,7 +34,6 @@ These modifications made it easy for me to mount my project and make it wearable
    For my project I decided to build the Third Eye for the Visually Impaired. This project is a stand-in for other devices that are used regularly such as walking sticks or guide dogs. Therefore, the basic structure of the project is for it to be able to detect the distance from the person wearing the prototype and the nearest object. In order for me to understand everything that this project would teach me, I broke it up into different milestones. The most basic of these milestones was connecting the ultrasound sensor which detects the distance, and the buzzer which beeps at a certain speed depending on the frequency.
   </HTML>
   
-<br>
 
   In order for me to understand how to do this, I had to investigate the main components of the basic parts of the circuit. The first one is the ultrasonic sensor, which works like echolocation. In order for me to understand how this hardware worked, I investigated the data sheet. After figuring out how to wire the sensor, I had to figure out how to program it. I was able to find a tutorial along with some sample code, and built off of that. After I was able to confirm that my sensor was working properly I was able to move on to the buzzer. 
   
