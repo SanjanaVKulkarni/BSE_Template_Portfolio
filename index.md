@@ -6,8 +6,10 @@
 
 [![Headstone Image]
 <HTML>
-<img src= "Images1/final.jpg" height=600  align=center style="float:right; padding-left:10px">
+<img src= "Images1/final.jpg" height=600  align=left style="float:right; padding-left:10px">
 </HTML>
+
+
 <br>
 <br>
 <br>
