@@ -2,7 +2,7 @@
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Sanjana Kulkarni | Middlesex County Academy for STEM | Electrical Engineering | Incoming Junior
+| Sanjana | Middlesex County Academy for STEM | Electrical Engineering | Incoming Junior
 
 ![Headstone Image]
 
