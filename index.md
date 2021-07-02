@@ -5,9 +5,10 @@
 | Sanjana Kulkarni | Middlesex County Academy for STEM | Electrical Engineering | Incoming Junior
 
 ![Headstone Image]
-<HTML>
-<img src= "Images1/final.jpg" height=600 align=center>
-</HTML>
+
+<p align="center">
+  <img width="460" height="300" src="Images1/final.jpg">
+</p>
 
 
 <br>
