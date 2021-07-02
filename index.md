@@ -42,7 +42,7 @@ Throughout this project, one of the difficult aspects was soldering. The process
 <br>
 <br>
 
-[![Final Milestone]{vIDEO COMING SOON}{:target="_blank" rel="noopener"}
+[![Sanjana's Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625253138/video_to_markdown/images/youtube--ZsyXn-WtxIc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/ZsyXn-WtxIc "Sanjana's Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
 <HTML>
