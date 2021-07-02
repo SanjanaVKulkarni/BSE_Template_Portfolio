@@ -4,7 +4,7 @@
 |:--:|:--:|:--:|:--:|
 | Sanjana | Middlesex County Academy for STEM | Electrical Engineering | Incoming Junior
 
-[![Headstone Image]
+
 
 
 
