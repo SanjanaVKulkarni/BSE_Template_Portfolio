@@ -7,7 +7,7 @@
 ![Headstone Image]
 
 <p align="center">
-  <img width="460" height="300" src="Images1/final.jpg">
+  <img width="460" height="500" src="Images1/final.jpg">
 </p>
 
 
